@@ -643,11 +643,11 @@ header nav ul li:last-child:after {
   content: '';
 }
 header .space {
-  -webkit-animation: slide 18s linear infinite;
-  -moz-animation: slide 18s linear infinite;
-  -o-animation: slide 18s linear infinite;
-  -ms-animation: slide 18s linear infinite;
-  animation: slide 18s linear infinite;
+  -webkit-animation: slide 200s linear infinite;
+  -moz-animation: slide 200s linear infinite;
+  -o-animation: slide 200s linear infinite;
+  -ms-animation: slide 200s linear infinite;
+  animation: slide 200s linear infinite;
   background-image: url("../images/stars.svg");
   background-position: center center;
   -webkit-background-size: 240px;
